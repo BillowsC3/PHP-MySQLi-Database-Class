@@ -3,3 +3,5 @@
 
 #Vim trash
 *.swp
+/.project
+/.buildpath
